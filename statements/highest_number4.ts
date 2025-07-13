@@ -12,6 +12,6 @@ if (abc > xyz && abc > pqr && abc > pqr && abc > lmn) {
 } else if (lmn > abc && lmn > xyz && lmn > pqr) {
     console.log(lmn);
 } else {
-    console.log("Fail");
+    console.log("Fail/erro");
 } 
 
