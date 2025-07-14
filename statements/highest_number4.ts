@@ -1,5 +1,5 @@
 let abc=1
-let xyz=10
+let xyz=9
 let pqr = 0
 let lmn=-8
 console.log("Below is the Highest number")
